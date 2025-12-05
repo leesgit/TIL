@@ -378,4 +378,3 @@ val uiState = someFlow
 
 * Android Developers – Flows in practice
   [https://developer.android.com/kotlin/flow](https://developer.android.com/kotlin/flow)
-    
